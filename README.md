@@ -1,4 +1,4 @@
-- 👋 Hi, I’m iOS Lead Developer at Storyyell.
+- 👋 Hi, I’m Lead iOS Developer at Storyyell.
 - 👀 I’m interested in making iOS and MacOS Applications.
 - 🌱 I’m currently learning MacOS development.
 - 📫 How to reach me, mail me at app@storyyell.in
